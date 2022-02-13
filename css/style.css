@@ -178,8 +178,8 @@ body{
     padding-top: 10px;
     font-size: 60px;
     min-width: 200px;
-    background: -webkit-linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(255, 61, 61), rgb(102, 104, 92));
-    background: -moz-linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(243, 72, 72), rgb(100, 102, 89));
+    background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(255, 61, 61), rgb(102, 104, 92));
+    background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(243, 72, 72), rgb(100, 102, 89));
     background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(231, 60, 60), rgb(105, 107, 93));
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -192,8 +192,8 @@ body{
     font-size: 60px;
     margin: 20px 0 0 0;
     min-width: 200px;
-    background: -webkit-linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(71, 196, 102), rgb(119, 119, 117));
-    background: -moz-linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(84, 189, 84), rgb(117, 117, 115));
+    background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(71, 196, 102), rgb(119, 119, 117));
+    background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(84, 189, 84), rgb(117, 117, 115));
     background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(85, 173, 92), rgb(132, 133, 130));
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -221,8 +221,8 @@ body{
     text-shadow: 0 0 50px rgb(179, 177, 177);
     text-align: center;
     box-shadow: 0 0 10px rgb(156, 156, 4),inset 0 0 10px rgb(141, 141, 0);
-    background: -webkit-linear-gradient(45deg, rgb(15, 15, 15) 12%, rgb(29, 29, 29), rgb(0, 0, 0));
-    background: -moz-linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(63, 63, 62), rgb(0, 0, 0));
+    background: linear-gradient(45deg, rgb(15, 15, 15) 12%, rgb(29, 29, 29), rgb(0, 0, 0));
+    background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(63, 63, 62), rgb(0, 0, 0));
     background: linear-gradient(45deg, rgb(0, 0, 0) 12%, rgb(68, 68, 68), rgb(7, 7, 7));
     background-repeat: no-repeat;
     background-position: 0 0;
